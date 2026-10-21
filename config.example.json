@@ -1,0 +1,11 @@
+{
+  "game_processes": [
+    "cs2", "dota2", "FortniteClient-Win64-Shipping",
+    "VALORANT-Win64-Shipping", "League of Legends", "RocketLeague",
+    "GTA5", "GTA5_Enhanced", "eldenring", "Cyberpunk2077",
+    "bg3", "bg3_dx11", "helldivers2", "RustClient", "RobloxPlayerBeta"
+  ],
+  "cooldown_seconds": 120,
+  "max_resumes_per_tick": 1,
+  "managed_job_ids": []
+}
